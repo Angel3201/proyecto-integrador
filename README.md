@@ -36,7 +36,7 @@ Desarrollar el juego **Piedra, Papel o Tijera** que integre los conocimientos vi
 **Requisitos:** Python 3.8 o mas 
 
 1. Descarga el archivo `piedra_papel_tijera.py` 
-2. Abre **PowerShell** y navega a esa carpeta donde este el archivo:
+2. Abre PowerShell y navega a esa carpeta donde este el archivo:
    ```powershell
    cd "C:\Users\usuario\carpeta de la ubicacion"
    ```
